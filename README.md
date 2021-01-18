@@ -1,5 +1,5 @@
 ![Header](https://github.com/arderagarwal/arderagarwal/blob/main/images/Adarsh%20Agarwal.png)
-
+<div align="center">
 
 ### Hi there 👋
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -31,3 +31,4 @@ You can find me on [![LinkedIn][1.2]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/arderagarwal/
+</div>
