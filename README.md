@@ -1,4 +1,4 @@
-[![Header](https://github.com/arderagarwal/arderagarwal/blob/main/images/Adarsh%20Agarwal.png)
+[![Header](https://github.com/arderagarwal/arderagarwal/blob/main/images/Adarsh%20Agarwal.png)]
 
 
 ### Hi there 👋
