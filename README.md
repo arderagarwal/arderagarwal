@@ -4,6 +4,7 @@
 # Hi there 👋
 ### Ingenious and determined Full-stack developer & a Data Science Enthusiast with great experience as a Freelancer and various Interns in Software Engineering. A tech enthusiast , born leader, public speaker, socialist & football lover by nature and Programmer by profession. Currently pursuing Bachelor of Technology - B.Tech focused in Mathematics and Computer Science from Delhi Technological University (Formerly DCE).
 <div align="center">
+  
 ![Adarsh's's github stats](https://github-readme-stats.vercel.app/api?username=arderagarwal)
 
 <!--
